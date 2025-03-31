@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hardik jain</h1>
-<h3 align="center">A from India</h3>
+<h3 align="center">I am from India</h3>
 
 - 🌱 I’m currently learning **python**
 
